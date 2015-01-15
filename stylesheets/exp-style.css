@@ -1,0 +1,27 @@
+.grey {
+  background-color: #ddd;
+}
+.cell-width {
+  width: 80px;
+}
+.add-expense-block {
+  height: 50px;
+}
+.add-item {
+  font-size: 4ex;
+}
+
+.menu {
+  height: 30px;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.menu-item {
+    padding-right: 3px;
+    float: left;
+}
+
+.menu-item__active {
+  font-weight: bold;
+}
